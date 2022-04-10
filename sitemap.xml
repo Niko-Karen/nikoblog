@@ -336,13 +336,6 @@
   </url>
   
   <url>
-    <loc>https://www.nikoblog.top/tags/%F0%9F%8E%B5%E6%AD%BB%E7%A3%95%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.nikoblog.top/tags/%F0%9F%93%93%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -372,6 +365,13 @@
   
   <url>
     <loc>https://www.nikoblog.top/tags/%E2%AD%90%EF%B8%8F%E8%AF%84%E4%BB%B7/</loc>
+    <lastmod>2022-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nikoblog.top/tags/%F0%9F%8E%B5%E6%AD%BB%E7%A3%95%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
